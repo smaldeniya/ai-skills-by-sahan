@@ -1,0 +1,8 @@
+{
+  "name": "youtube-fintuber-digest",
+  "version": "0.1.0",
+  "description": "Summarize new videos in a YouTube fintuber playlist by reading each video's transcript.",
+  "author": {
+    "name": "Sahan Maldeniya"
+  }
+}

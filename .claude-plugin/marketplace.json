@@ -1,0 +1,18 @@
+{
+  "name": "ai-skills-by-sahan",
+  "owner": {
+    "name": "Sahan Maldeniya",
+    "email": "sahan@kodalinkconsulting.se"
+  },
+  "plugins": [
+    {
+      "name": "youtube-fintuber-digest",
+      "source": "./plugins/youtube-fintuber-digest",
+      "description": "Summarize new videos in a YouTube fintuber playlist by reading each video's transcript.",
+      "version": "0.1.0",
+      "author": {
+        "name": "Sahan Maldeniya"
+      }
+    }
+  ]
+}
